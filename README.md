@@ -1,2 +1,3 @@
 # poc_random
-random POC code, mostly throwaway!
+1. ./initial_setup.sh
+2. mv *.py to the created folder.
