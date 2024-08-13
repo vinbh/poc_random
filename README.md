@@ -13,7 +13,7 @@ This project is a YouTube Assistant chatbot that leverages LangChain, OpenAI's G
 ## Prerequisites
 
 - Python 3.7 or higher
-- `pip` (Python package installer)
+- `pip` (i'd personally use uv now!!)
 
 ## Setup Instructions
 
